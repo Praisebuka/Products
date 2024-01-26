@@ -61,3 +61,62 @@ body {
     height: 40px;
 }
 
+.colouredNumbers {
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.itemName {
+    font-weight: bold;
+}
+
+.itemName span {
+    font-weight: normal;
+}
+
+.theMinus {
+    color: #fff;
+    background-color: gray;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 35px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.thePlus {
+    color: #fff;
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 35px;
+}
+
+.theEdit {
+    color: #fff;
+    background-color: rgb(142, 195, 238);
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 35px;
+    width: 70px;
+    height: 55px;
+}
+
+.theDelete {
+    color: #fff;
+    background-color: red;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 35px;
+    width: 70px;
+    height: 55px;
+}
+
+.fas.fa-delete {
+    color: red; /* Change color to red */
+    font-size: 24px; /* Change font size */
+}
+
+
