@@ -114,9 +114,18 @@ body {
     height: 55px;
 }
 
-.fas.fa-delete {
-    color: red; /* Change color to red */
-    font-size: 24px; /* Change font size */
+.afterTheTotal {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
 }
 
+.afterTheTotal button {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-bottom: 1rem;
+}
 
+.afterTheTotal button p {
+    font-size: 1.5rem;
+}
